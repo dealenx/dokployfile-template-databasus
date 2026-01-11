@@ -8,6 +8,7 @@ meta:
   logo: "postgresus.svg"
   tags: ["PostgreSQL", "backup", "tool", "MySQL"]
   links:
+    website: "https://databasus.com"
     github: "https://github.com/databasus/databasus"
 template:
   compose: "docker-compose.yml"
