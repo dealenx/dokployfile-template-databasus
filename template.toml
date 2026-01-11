@@ -6,6 +6,6 @@ env = []
 mounts = []
 
 [[config.domains]]
-serviceName = "postgresus"
+serviceName = "databasus"
 port = 4005
 host = "${main_domain}"
