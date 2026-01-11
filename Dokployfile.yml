@@ -5,7 +5,7 @@ meta:
   name: "Databasus"
   version: "1.0.0"
   description: "PostgreSQL backup tool with MySQL and MongoDB support"
-  logo: "blueprints/postgresus/postgresus.svg"
+  logo: "postgresus.svg"
   tags: ["PostgreSQL", "backup", "tool", "MySQL"]
   links:
     github: "https://github.com/databasus/databasus"
