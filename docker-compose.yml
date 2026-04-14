@@ -7,7 +7,7 @@ services:
       - "4005"
     volumes:
       # Persistent data storage
-      - ./databasus-data:/databasus-data
+      - databasus-data:/databasus-data
     restart: unless-stopped
     environment:
       # Optional: Set timezone
@@ -21,4 +21,3 @@ services:
 
 volumes:
   databasus-data:
-    driver: local
